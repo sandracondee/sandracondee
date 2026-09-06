@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Sandra Conde 👋</h1>
 
 <p align="center">
-  <b>Computer Engineer · Master's in Artificial Intelligence · AI & LLMs</b>
+  <b>Computer Scientist · Master's in Artificial Intelligence · AI & LLMs</b>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 👩🏻‍💻 About Me
 
-I'm a **Computer Engineer with a Master's degree in Artificial Intelligence**, interested in building practical solutions with **Artificial Intelligence, Large Language Models (LLMs) and Generative AI**.
+I'm a **Computer Scientist with a Master's degree in Artificial Intelligence**, interested in building practical solutions with **Artificial Intelligence, Large Language Models (LLMs) and Generative AI**.
 
 I enjoy combining software engineering with AI to develop solutions for real-world problems. I'm particularly interested in **LLMs, RAG and GraphRAG systems, multi-agent architectures, Natural Language Processing and Explainable AI**.
 
