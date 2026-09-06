@@ -1,7 +1,3 @@
-<p align="center">
-  <img style="width:90%; height:auto" alt="Coding" src="./assets/coding.png"/>
-</p>
-
 <h1 align="center">¡Hola! Soy Sandra Conde 👋</h1>
 
 <p align="center">
@@ -106,7 +102,7 @@ Proyecto centrado en la **interpretabilidad y explicabilidad de modelos de Machi
 ### 🤝🏻  Conecta conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/sandracondee/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
