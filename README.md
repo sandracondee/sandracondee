@@ -5,10 +5,17 @@
 </p>
 
 <p align="center">
+  <a href="https://sandraconde.vercel.app/">
+    <img src="https://img.shields.io/badge/Personal_Portfolio-1C3C3C?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/sandracondee/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+<h3 align="center">
+  🚀 <a href="https://sandraconde.vercel.app/">Check out my Personal Portfolio for more details!</a> 🚀
+</h3>
 
 ---
 
@@ -98,11 +105,20 @@ Project focused on **Machine Learning interpretability and explainability**, exp
 
 ### 🤝🏻 Connect with Me
 
+<h3 align="center">
+  🌐 <a href="https://sandraconde.vercel.app/">Visit my Personal Portfolio</a> 🌐
+</h3>
+
 <p align="center">
+  <a href="https://sandraconde.vercel.app/">
+    <img src="https://img.shields.io/badge/Personal_Portfolio-1C3C3C?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/sandracondee/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
+<br>
 
 <p align="center">
   <i>Always learning. Always building. Always exploring AI. 🤖</i>
